@@ -1,6 +1,6 @@
 ﻿namespace IPAD_simulator.Enums
 {
-    public enum SystemTypeViue
+    public enum SystemTypeDevice
     {
         IPAD,
         IPhone,
